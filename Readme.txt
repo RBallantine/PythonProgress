@@ -1,4 +1,4 @@
-I will provide a list of covered topics here to display my progress.
+A list of covered topics to display my progress. Milestone scripts will also be added to the repo.
 
 Topics Covered
 
