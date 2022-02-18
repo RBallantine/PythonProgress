@@ -9,3 +9,6 @@ Topics Covered
 - String Properties and Methods
 - Lists
 - Dictionairies
+- Tuples
+- Sets
+- File I/O
