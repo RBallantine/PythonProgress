@@ -1,0 +1,78 @@
+# Ronan Ballantine
+# Python course assessment test 1
+
+# *** LISTS ***
+
+# Build this list [0,0,0] in two seperate ways
+#answer 1
+my_list1 = [0,0,0,]
+
+#answer 2
+my_list2 = [0]*3
+
+# Reassign 'hello' in this nested list to say 'Goodbye' instead
+list3 = [1,2,[3,4,'hello']]
+
+#Answer
+list3[2][2] = 'Goodbye'
+
+#Sort the list below
+list4 = [5,3,4,6,1]
+
+#Answer
+list4.sort()
+
+
+# *** DICTIONARIES ***
+
+#Using keys and indexing, grab the 'hello' from the following dictionaries:
+# Q1
+d = {'simple_key':'hello'}
+
+#Answer
+d['simple_key']
+
+# Q2
+d = {'k1':{'k2':'hello'}}
+
+#Asnwer
+d['k1']['k2']
+
+# Q3
+d = {'k1':[{'nest_key':['this is deep',['hello']]}]}
+
+#Answer
+d['k1'][0]['nest_key'][1][0]
+
+# Q4
+d = {'k1':[1,2,{'k2':['this is tricky',{'tough':[1,2,['hello']]}]}]}
+
+#Answer
+d['k1'][2]['k2'][1]['tough'][2][0]
+
+# Can you sort a dictionary?
+#Answer: No, a dictionary is mappings of key value pairs, they are not a sequence such as a list.
+
+# *** TUPLES *** 
+#What is the major difference between tuples and lists?
+
+#Answer: Tuples cannot be altered, they are immutable
+
+# *** SETS ***
+# What is unique about a set?
+
+#Answer: They do not allow duplicate for items
+
+#Use a set to find unique values of the list below
+list5 = [1,2,2,33,4,4,11,22,3,3,2]
+
+#Answer
+set(list5)
+
+#What is the boolean output for the code below?
+l_one = [1,2,[3,4]]
+l_two = [1,2,{'k1':4}]
+
+l_one[2][0] >= l_two[2]['k1']
+
+#Answer = false
