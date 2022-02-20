@@ -20,3 +20,12 @@ Python Statements
   - for + while loops
   - Useful Operators
   - List Comprehensions
+
+Methods and Functions
+  - Logic with functions
+  - Tuple unpacking with functions
+  - Interactions between functions
+  - Lambda expressions, Map and Filter functions
+  - Nested Statements and scope
+ 
+ Tic-Tac-Toe challenge
