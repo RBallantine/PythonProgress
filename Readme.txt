@@ -29,3 +29,8 @@ Methods and Functions
   - Nested Statements and scope
  
  Tic-Tac-Toe challenge
+
+Object Oriented Programming
+  - Class Object, Attributes and Methods
+  - Inheritance and Polymorphism
+  - Special (Magic/Dunder) Methods
