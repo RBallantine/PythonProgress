@@ -44,3 +44,14 @@ Errors and Exception Handling
 
 Python Decorators
 Python Generators
+
+Collections
+  - Counter
+  - defaultdict
+  - namedtuple
+  
+Files and Folder
+  - Listing files in a directory
+  - Moving files
+  - Deleting files
+  - Walking through a directory
