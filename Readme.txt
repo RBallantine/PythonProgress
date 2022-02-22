@@ -34,3 +34,13 @@ Object Oriented Programming
   - Class Object, Attributes and Methods
   - Inheritance and Polymorphism
   - Special (Magic/Dunder) Methods
+
+Modules and Packages
+
+Errors and Exception Handling
+  - Errors and Exceptions 
+  - Pylint
+  - Unittest
+
+Python Decorators
+Python Generators
