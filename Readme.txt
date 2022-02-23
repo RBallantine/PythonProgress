@@ -55,3 +55,16 @@ Files and Folder
   - Moving files
   - Deleting files
   - Walking through a directory
+
+Python Modules
+  - Datetime
+  - Math and Random
+  - Python Debugger
+  - Python Regular expressions
+  - Timing code Run Time
+  - Zipping and Unzipping
+  
+Web Scraping
+  - Web Scraping Libraries
+  - Grabbing titles, classes, images...
+  - web scraping exercise
