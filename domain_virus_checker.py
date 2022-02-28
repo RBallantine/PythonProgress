@@ -14,8 +14,6 @@ import requests
 import csv
 
 
-virus_total_url = f'https://www.virustotal.com/api/v3/domains/vocalriyaz.com'
-
 results = []
 
 with open('domain_list1.csv', mode='r') as f:
