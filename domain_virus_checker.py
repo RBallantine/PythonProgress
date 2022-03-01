@@ -30,7 +30,7 @@ with open('domain_list1.csv', mode='r') as f:
 
         headers = {
             "Accept": "application/json",
-            "x-apikey": "f71dfc8ebb8d6b5c0694be4d1cbdefe0153f34727033ba181e64c30b672ecc64"
+            "x-apikey": "ENTER YOUR API KEY HERE"
         }
 
         response = requests.request("GET", virus_total_url, headers=headers)
